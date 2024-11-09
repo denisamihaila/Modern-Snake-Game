@@ -30,7 +30,7 @@ Upon starting the game, control the snake using the arrow keys. The goal is to e
 - **Arrow Keys**: Move the snake in the desired direction.
 - **Q**: Quit to the main screen when prompted.
 - **C**: Continue and restart the game after a game over.
-- 
+
 ## ✨ Code Highlights
 
 The code demonstrates several key programming concepts:

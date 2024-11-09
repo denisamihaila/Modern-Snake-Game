@@ -1,12 +1,8 @@
 # 🐍 Modern Snake Game
 
-![image](https://github.com/user-attachments/assets/04c12211-6942-4606-b9f5-5674e40be111)
-![image](https://github.com/user-attachments/assets/9addec0a-5dd5-4b1a-9a3f-0c694f1a036d)
-![image](https://github.com/user-attachments/assets/549da0b6-becd-482b-a141-60572e5c2cbc)
 <img src="https://github.com/user-attachments/assets/04c12211-6942-4606-b9f5-5674e40be111" alt="image" width="500">
 <img src="https://github.com/user-attachments/assets/9addec0a-5dd5-4b1a-9a3f-0c694f1a036d" alt="image" width="500">
 <img src="https://github.com/user-attachments/assets/549da0b6-becd-482b-a141-60572e5c2cbc" alt="image" width="500">
-
 
 ## Overview
 
